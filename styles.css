@@ -3,11 +3,13 @@ body {
 }
 
 .postcard {
+	
 	background: white;
 	width: 400px;
 	height: 300px;
 	margin: auto;
 	font-family: "Roboto", sans-serif;
+	margin-top: 55px;
 }
 .postcard-header {
 	display: flex;
